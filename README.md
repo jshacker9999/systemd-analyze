@@ -1,2 +1,2 @@
 # systemd-analyze
-image zoom of systemd-analyze Ubuntu
+Image zoom of systemd-analyze Ubuntu
